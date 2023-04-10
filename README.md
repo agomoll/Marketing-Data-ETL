@@ -4,3 +4,8 @@ Using Snowflake and SQL, the goal of this exercise was to identify somewhat dise
 
 
 <img src="Resources/initial_table.png" width=75%>
+
+
+Trimming leading and trailing spaces, standardizing Phone numbers, and splitting names into two collumns
+
+<img src="Resources/trimming_name_phonenum.png" width=75%>
