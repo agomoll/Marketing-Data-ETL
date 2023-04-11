@@ -19,3 +19,9 @@ Using Snowflake and SQL, the goal of this exercise was to identify somewhat dise
 #### Cleaning Company info collumn by replacing missing or NULL values with NA
 
 <img src="Resources/clean_company.png" width=75%>
+
+
+#### Putting all the column cleaning steps together into one query and creating a view. This will provide a complete list of clean customer data as well as a table view that can be filtered based on desired parameters. 
+
+<img src="Resources/customer_view.png" width=75%>
+
