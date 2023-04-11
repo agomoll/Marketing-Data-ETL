@@ -25,3 +25,8 @@ Using Snowflake and SQL, the goal of this exercise was to identify somewhat dise
 
 <img src="Resources/customer_view.png" width=75%>
 
+
+#### Filtering the view to provide just the customers who have not made a purchase in the last 90 days. This list can be used to create a targeted marketing effort to re-engage with with a subset of the customer base. 
+
+<img src="Resources/customer_target_filter.png">
+
